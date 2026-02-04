@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENV/Keys.md",
+                "file": "Synapto-Integration-Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Keys"
+              "title": "Synapto-Integration-Test"
             }
           }
         ]
@@ -186,6 +186,9 @@
   },
   "active": "8047ebb0b2a51a96",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "ENV/Keys.md",
+    "Friday-AI-Integration.md",
     "Nummerplader.md",
     "note.md",
     "Projects/Synapto/Development/Production-Deployment-2026-01-09.md",
@@ -213,8 +216,6 @@
     "Projects/Synapto/Daily-Notes",
     "Projects/Synapto/Deployment",
     "Projects/Synapto/Frontend",
-    "Projects/Synapto/Backend",
-    "ENV/Keys.md",
-    "Untitled.canvas"
+    "Projects/Synapto/Backend"
   ]
 }
