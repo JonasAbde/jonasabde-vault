@@ -1210,3 +1210,22 @@ Changes not staged for commit:
 no changes added to commit (use "git add" and/or "git commit -a")
 The stash entry is kept in case you need it again.
 [2026-02-05 04:24:50] 📤 Committing changes...
+[2026-02-05 04:34:56] ⬇️ Pulling from GitHub...
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+[2026-02-05 04:34:56] 📂 Restoring local changes...
+error: Your local changes to the following files would be overwritten by merge:
+	.git-sync.log
+Please commit your changes or stash them before you merge.
+Aborting
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   .git-sync.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+The stash entry is kept in case you need it again.
+[2026-02-05 04:34:56] 📤 Committing changes...
