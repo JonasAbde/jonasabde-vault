@@ -1,0 +1,1 @@
+/root/.openclaw/workspace/FRIDAY-CAPABILITIES-OVERVIEW.md

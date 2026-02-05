@@ -1,0 +1,1 @@
+/root/.openclaw/workspace/GIT-SYNC-GUIDE.md

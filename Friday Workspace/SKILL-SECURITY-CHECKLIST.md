@@ -1,0 +1,1 @@
+/root/.openclaw/workspace/SKILL-SECURITY-CHECKLIST.md

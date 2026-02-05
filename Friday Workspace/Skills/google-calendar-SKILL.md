@@ -1,0 +1,1 @@
+/root/.openclaw/workspace/skills/google-calendar/SKILL.md

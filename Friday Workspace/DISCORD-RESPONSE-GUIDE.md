@@ -1,0 +1,1 @@
+/root/.openclaw/workspace/DISCORD-RESPONSE-GUIDE.md

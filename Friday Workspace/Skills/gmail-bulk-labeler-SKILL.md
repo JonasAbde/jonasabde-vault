@@ -1,0 +1,1 @@
+/root/.openclaw/workspace/skills/gmail-bulk-labeler/SKILL.md
